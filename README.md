@@ -4,6 +4,10 @@
 $ npm install
 ```
 
+```bash
+$ Add missing variables in docker-compose.yml file
+```
+
 ## Running the app
 
 ```bash
